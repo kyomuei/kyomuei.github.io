@@ -1,1 +1,6 @@
+# Jekyll configuration
 theme: jekyll-theme-hacker
+title: Kyomuei's Lab
+description: Kyomuei's Web Page
+url: "https://kyomuei.github.io"
+markdown: kramdown
